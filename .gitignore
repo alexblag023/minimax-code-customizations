@@ -1,0 +1,6 @@
+# Кэши и артефакты сборки
+plugin/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
